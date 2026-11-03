@@ -1,0 +1,6 @@
+{
+  "name": "Mohit Salon & Beauty Parlour",
+  "description": "A luxury salon & beauty parlour offering premium hair styling, bridal makeup, revitalizing facials, and wellness spa treatments with direct appointment booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
